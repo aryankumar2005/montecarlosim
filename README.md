@@ -26,5 +26,10 @@ Because real-world variables like particle size and oil viscosity change natural
 
 Place `monte_carlo_final.m` in your MATLAB directory and run it from the **Command Window**:
 
+![Fig 2: Euler's Method Results](graph.png)
+
 ```matlab
+
+
 >> monte_carlo_final
+ 
