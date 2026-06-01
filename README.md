@@ -8,7 +8,7 @@ Because real-world variables like particle size and oil viscosity change natural
 
 * **The Physics:** A particle is pulled by a constant force ($F_0$) while fighting an inverse-distance fluid drag force ($\propto 1/D$) near a solid wall.
 
-!(docs/graph.png)
+!(graph.png)
 * **The Method:** 1,000 random trials per distance tier using a **Uniform Distribution** for particle size and a **Normal Distribution** for fluid viscosity.
 
 ---
