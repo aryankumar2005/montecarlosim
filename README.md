@@ -18,7 +18,7 @@ Because real-world variables like particle size and oil viscosity change natural
 
 | File | Description |
 | :--- | :--- |
-| **`monte_carlo_final.m`** | Main script. Handles the random loops, runs the Euler physics engine, and outputs the final statistical 
+| **`monte_carlo_final.m`** | Main script. Handles the random loops, runs the Euler physics engine, and outputs the final statistical summary of escape times.
 
 ---
 
