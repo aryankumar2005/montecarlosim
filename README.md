@@ -8,7 +8,7 @@ A flavour particle sits in a 0.1 mm film of oil on some food. When the food is f
 
 A constant force F0 pulls the particle away from the surface, and the oil slows it down. The drag gets stronger the closer the particle is to the surface, because it's proportional to 1/D, where D is the gap. The particle has been removed once the gap is bigger than the film thickness.
 
-![Schematic of the system](Fig1.png)
+![Schematic of the system](images/Fig1.png)
 
 Diagram from the module brief.
 
