@@ -47,11 +47,11 @@ monte_carlo
 
 A single particle with a radius of 0.5 mm starting 1 micrometre from the surface takes about 0.015 s to come out of the film.
 
-![One particle](separation.png)
+![One particle](images/separation.png)
 
 In the Monte Carlo simulation, the mean separation time falls from about 0.017 s for a particle starting 1 micrometre from the surface to about 0.009 s at 50 micrometres, and the spread between trials gets smaller too. With no drag at all, a particle starting at 1 micrometre would take about 0.012 s, so the drag adds around 40% when the particle starts very close to the surface, and matters much less further away.
 
-![Monte Carlo results](results.png)
+![Monte Carlo results](images/results.png)
 
 ## References
 
